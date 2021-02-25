@@ -1,3 +1,3 @@
 # LemonFood
-##PWA web site with firebase
+## PWA web site with firebase
 
